@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="Github Profile GIF.gif" alt="Hi, I'm Enoch 👋 I'm a 🚀 Data Analyst 🚀">
-</p>   
+  <img src="https://github.com/EnochEmerald/EnochEmerald/blob/main/Github%20Profile%20GIF.gif?raw=true" alt="Hi, I'm Enoch 👋 I'm a 🚀 Data Analyst 🚀">
+</p>
    
-   
+      
    Hi👋👩🏾‍💻,
 I’m Enochemerald, I am passionate about using data to make informed decisions, optimize processes, and create measurable impact from building predictive models, automating workflows, or uncovering hidden patterns, I thrive on turning raw data into strategic value.
 Let's connect and explore how data can shape the future!👩🏾‍💻
